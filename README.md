@@ -16,3 +16,4 @@ A Full Stack Django application that generates an article based on Youtube link.
 3. OpenAI
 4. AssemblyAI
 5. Qovery
+6. JavaScript
